@@ -11,6 +11,24 @@ export default class Article1 extends React.Component{
                    O ReactJS é uma biblioteca voltada para o Client-Side que tem como finalidade
                    desenvolver interfaces visuais. Sendo assim no famoso padrão MVC o ReactJS representa
                    o V , ou seja ,  a camada de vizualização . 
+                   <br />
+                   -Como foi dito o React é uma biblioteca e não um framework
+                   -Sua finalidade são interfaces
+                   <br />
+                   Essas duas informações juntas criam a primeira grande confusão para quem está começando: 
+                   se o React é apenas uma biblioteca e só serve para criar UI, como posso criar aplicações completas
+                   com ele?
+                   E para resolver essa questão precisamos entender que quando a comunidade se refere ao React,
+                   o que na verdade ela está querendo dizer é o React e o seu ecossistema. E esse ecossistema é formado por:
+
+                    React <br/>
+                    JSX <br/>
+                    ES2015 <br/>
+                    Webpack <br/>
+                    Flux/Redux <br/>
+                    axios/fetch <br/>
+                    Jest/Mocha <br/>
+
                </p>
                <tr> </tr>
                <h3 style={{textAlign: 'center'}} >O Virtual DOM</h3>

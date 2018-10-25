@@ -1,7 +1,7 @@
 {
-  "name": "api_with_nodejs_and_reactjs",
+  "name": "concepts_react_js",
   "version": "1.0.0",
-  "description": "API using ReactJS (ClientSide) and NodeJs (ServerSide)",
+  "description": "ReactJS - Concepts ",
   "main": "index.js",
   "author": "Octávio Duarte",
   "license": "MIT",
